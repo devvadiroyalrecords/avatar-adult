@@ -90,7 +90,7 @@ aether-render-engine/
 
 ### 05_simulation_utils
 - Affective math primitives (`KL divergence`, manifold projection, tensor wrappers)
-- Shared utility wrappers (`KL Divergence`, `CosineSimilarity`, `Tensor` ops for OBIM)
+- Shared utility wrappers (`CosineSimilarity`, `Tensor` ops for OBIM)
 
 ## AADT Operational Loop
 1. Operator sets `I_operator`
